@@ -1,0 +1,20 @@
+body, html {
+
+	background:#ffffff;
+	background-size:cover;
+	background-repeat:no-repeat;
+	overflow:hidden;
+	cursor:url(../img/cursor.cur), auto;
+}
+
+@font-face {
+
+	font-family:trebuc;
+	src:url(../fonts/trebuc.ttf);
+}
+
+@font-face {
+
+	font-family:facebook;
+	src:url(../fonts/facebook.otf);
+}
